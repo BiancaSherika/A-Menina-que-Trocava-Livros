@@ -2,6 +2,10 @@
 
 Acesse a aplicação aqui: https://rede-social-4f31b.web.app/
 
+Conta para teste: </br>
+Email: teste@teste.com </br>
+Senha: 123456
+
 ## Índice
 
 - [1. Apresentação](#1-apresentação)
